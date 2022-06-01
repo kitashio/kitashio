@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/tocoteron%22%3E
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kitashio&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tocoteron%22%3E
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitashio&layout=compact&theme=dracula" />
+</a>
