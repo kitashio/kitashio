@@ -1,4 +1,4 @@
-### Thank you for visiting 🥳
+### Thank you for visiting 🌼🌼
 
 - 💝 Valentine Roulette app　https://valentineapp-24328.web.app/#/
 - 👗 Diagnosis for women app　https://withmeapp-d617d.web.app/#/
